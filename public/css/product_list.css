@@ -1,0 +1,42 @@
+.filters {
+    display: flex;
+    gap: 10px;
+}
+
+.filters .search-input {
+    margin-left: auto;
+}
+
+.filters #search {
+    width:250px;
+}
+
+.search-input {
+    display: flex;
+    gap: 10px;
+    padding-bottom: 20px;
+}
+
+.create-product-forms input, select{
+    margin-bottom: 20px;
+}
+
+.create-product-forms button{
+    margin-right: 20px;
+}
+
+.card-list-footer {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.current-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.current-images img{
+    margin-bottom: 10px;
+}
