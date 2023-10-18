@@ -1,4 +1,4 @@
-<h2>**Step by step process on how to run the dashboard application**</h2>
+<h2>Step by step process on how to run the dashboard application</h2>
 
 1. Clone the repository so you can get all the needed files.
 2. After cloning, open the terminal and navigate to the cloned repository.
